@@ -123,6 +123,10 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Basic functions
+multiply.py
+multiply2.py
+
 # Environments
 .env
 .venv
