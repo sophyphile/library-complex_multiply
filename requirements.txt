@@ -1,0 +1,2 @@
+# The requirements.txt file is used in each Python project to specify its dependencies.
+numpy
