@@ -8,7 +8,9 @@ Welcome to Complex Multiply's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Python API:
+
+   source/api/multiplication
 
 
 
